@@ -1,4 +1,4 @@
 image:
   repository: ghcr.io/gr-ath-ucc-pss
   pullPolicy: IfNotPresent
-  version: 1.0.18.8-SNAPSHOT
+  version: 3.3.0-RC5-SNAPSHOT-20230313.13274591149043568f7bd5f378ffb18ed96f839c9be6f7

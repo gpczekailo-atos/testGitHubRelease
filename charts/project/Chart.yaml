@@ -2,7 +2,7 @@ apiVersion: v2
 name: project_name
 description: A Helm chart for Kubernetes
 type: application
-version: 1.0.18.8-SNAPSHOT
+version: 3.3.0-RC5-SNAPSHOT-20230313.13274591149043568f7bd5f378ffb18ed96f839c9be6f7
 dependencies:
   - name: prometheus
     version: 12.0.0
